@@ -1,4 +1,5 @@
-# Power BI Report for Student Expenditure Analysis
+# Power BI Report for Student Expenditure Analysis [PowerBI Report](https://app.powerbi.com/view?r=eyJrIjoiNzlhMzgwMTUtNmI4OS00OGY2LTllNmYtMTMyYThlN2EwZGE2IiwidCI6ImE2YWZkNmQ0LWJiMzctNGNkMC05MWZkLTk0MGQzNDFmMDIxYyJ9)
+
 
 The survey data was collected from multiple stores to determine the amount of money that students spend on different items such as video games, indoor games, toys, books, and gadgets. The student survey data was analyzed to gain valuable insights.
 
